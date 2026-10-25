@@ -1,0 +1,12 @@
+{
+  "author": "HologramAgent SDK",
+  "description": "清洗 LLM 输出中的工具调用残留（思维泄漏）",
+  "entry": "plugin.bin",
+  "name": "sanitizer",
+  "name_en": "sanitizer",
+  "name_zh": "输出清洗",
+  "tags": [
+    "sanitizer"
+  ],
+  "version": "0.1.0"
+}
